@@ -4,7 +4,7 @@ This API can create, read, update and destroy products.
 
 To run and test functionality do the following:
 <li> 1. git clone repo </li>
-<l1> 2. cd into the repo </li>
+<li> 2. cd into the repo </li>
 <li> 3. install all module: npm install </li>
 <li> 4. run the server in dev mode: npm run dev </li> 
 <li> 5. You will need a mongoDB uri: create you db link and put in dev_url under app.js </li>
